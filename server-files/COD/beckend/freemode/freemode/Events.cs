@@ -16,6 +16,7 @@ namespace freemode
         {
             player.Health = 100;
             player.Armor = 100;
+            player.GiveWeapon(WeaponHash.Pistol, 100);
         }
     }
 }
