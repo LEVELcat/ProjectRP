@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "freemode": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\RAGEMP\\server-files",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": false
+    }
+  }
+}
