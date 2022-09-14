@@ -1,0 +1,5 @@
+<meta>
+    <info name="Freemode" description="test mode rage" />
+
+    <script src="freemode.dll" />
+</meta>
