@@ -16,7 +16,7 @@ namespace freemode
         {
             player.Health = 100;
             player.Armor = 100;
-            player.GiveWeapon(WeaponHash.Minismg, 300);
+            player.GiveWeapon(WeaponHash.Smg_mk2, 300);
             player.GiveWeapon(WeaponHash.Rpg, 24);
         }
     }
