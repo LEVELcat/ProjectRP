@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "p1PYvmHcGabGVbNW5UDrqT+mWs8RGbr8D8/NNFq5OWPoiG82S7t2NYMrgFTzvyapxcLxxvKNTk7hs7bNtuxtlg==",
+  "dgSpecHash": "3AjbA0kgC6PNXto64HBCsBujdDuI8C+CYRZ8BfL0lpV3kymX6OLnyiz495p6n+Bp8PhUm3ra9RJ0zfzhHaKiIg==",
   "success": true,
-  "projectFilePath": "D:\\RAGEMP\\Serv\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Games\\fgfdgbvg\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dieni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\dieni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dieni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dieni\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RAGEMP\\Serv\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj": {}
+    "D:\\Games\\fgfdgbvg\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj": {}
   },
   "projects": {
-    "D:\\RAGEMP\\Serv\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj": {
+    "D:\\Games\\fgfdgbvg\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAGEMP\\Serv\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj",
+        "projectUniqueName": "D:\\Games\\fgfdgbvg\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj",
         "projectName": "freemode",
-        "projectPath": "D:\\RAGEMP\\Serv\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj",
-        "packagesPath": "C:\\Users\\Sin\\.nuget\\packages\\",
-        "outputPath": "D:\\RAGEMP\\Serv\\server-files\\COD\\beckend\\freemode\\freemode\\obj\\",
+        "projectPath": "D:\\Games\\fgfdgbvg\\server-files\\COD\\beckend\\freemode\\freemode\\freemode.csproj",
+        "packagesPath": "C:\\Users\\dieni\\.nuget\\packages\\",
+        "outputPath": "D:\\Games\\fgfdgbvg\\server-files\\COD\\beckend\\freemode\\freemode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dieni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.30, 3.1.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
